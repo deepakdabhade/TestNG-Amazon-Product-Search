@@ -1,0 +1,7 @@
+2018-06-24 20:21:07,361 INFO  [SearchProduct] Browser opened 
+2018-06-24 20:21:16,214 INFO  [SearchProduct] Amazon site launched 
+2018-06-24 20:21:16,434 INFO  [SearchProduct] Entered search text - 'Nikon' 
+2018-06-24 20:21:21,959 INFO  [SearchProduct] Clicked on Search button 
+2018-06-24 20:21:22,271 INFO  [SearchProduct] Clicked on sort dropdown 
+2018-06-24 20:21:22,551 INFO  [SearchProduct] Selected option 'High to Low' 
+2018-06-24 20:21:29,741 INFO  [SearchProduct] Selected second product 
